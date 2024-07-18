@@ -1,3 +1,3 @@
 # Portfolio-Website
 
-Open the 'index.html' file
+Link : https://ojas-17.github.io/Portfolio-Website/
